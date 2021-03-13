@@ -1,6 +1,6 @@
 # netcircllhist
 
-This is a C# .NET implementation of the OpenHistogram libcircllhist library.
+This is a C# .NET implementation of the OpenHistogram [libcircllhist](https://github.com/openhistogram/libcircllhist) library.
 
 It provides the `Histogram` class from a `Circonus.circllhist` namespace in an
 asset called `netcircllhist.dll`.
